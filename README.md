@@ -24,6 +24,8 @@ to comprehend:
 - **Pandas** for data manipulation
 - **Matplotlib / Seaborn** for visualization
 - **Google Colab** for interactive coding
+- **Tableau** for data dashboarding
+
 
   ---
 
@@ -41,6 +43,16 @@ to comprehend:
 - There was a significant rise in content additions around 2018–2020.
 
 ---
+## Tableau Dashboard
+
+In addition to the Python EDA, an interactive **Tableau dashboard** was created to visually explore content trends across countries, genres, and time.
+
+### Dashboard Highlights:
+- **Shows Added Over Time**: Line chart visualizing yearly growth.
+- **Movies vs TV Shows**: Pie chart illustrating content type distribution.
+- **Country vs Genre Heatmap**: Reveals regional genre preferences.
+- **Top Countries by Content**: Bar chart ranking content-producing countries.
+
 
 ## How to Run
 
