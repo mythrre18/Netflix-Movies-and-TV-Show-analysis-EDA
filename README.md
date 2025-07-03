@@ -6,6 +6,10 @@ The Netflix titles dataset is subjected to an exploratory data analysis (EDA) in
 ## Objective
 
 to comprehend:
+
+-Create a netflix recommendation system
+
+
 -how content is distributed throughout TV series and films.
 
 
